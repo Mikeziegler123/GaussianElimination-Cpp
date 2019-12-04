@@ -1,6 +1,4 @@
 /* Author:  Michael Ziegler
- * Course:  CSCI 3080
- * Lab number: Lab 3 / Code: ola3 / Source: main.cpp
  *
  * Purpose: This program reads in a single value, (square) matrix dimension
  * from the user, and then reads in the corresponding values using stdin.
