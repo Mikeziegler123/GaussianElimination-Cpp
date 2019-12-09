@@ -6,7 +6,6 @@
  * Using a modified Gaussian Elimination algorithm, this program calculates
  * and displays the inverse matrix respectively.
  *
- * Due date:February 6, 2018 before 11:59pm
 */
 
 #include <iostream>
